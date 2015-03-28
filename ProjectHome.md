@@ -1,0 +1,3 @@
+SpotRank predicts the density of people in predefined urban square-block areas worldwide at any hour, any day of the week. This is  a comparison tool to evaluate population density between two chosen places at a given date and time. This will generally help user to choose route/place she is heading to. The evaluation happens on the basis of worldwide\_rank, local\_rank, trending\_rank and city\_rank and later plotted over a Google map. The application was developed in PHP and JavaScript.
+
+Please download the source code from the "Downloads" tab. Also, go through http://simplegeo.com/docs/clients-code-libraries/php to play around with it. The project is in its 1st version and more development is in progress. Thank you.
